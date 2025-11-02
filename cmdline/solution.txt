@@ -1,2 +1,3 @@
 $ cat solution.txt
 byte0: you_just_mastered_changing_directories
+byte1: με τα δεδομένα που έχω δεν μπορώ να βρω τι κάνει το πρόγραμμα του byte1.
